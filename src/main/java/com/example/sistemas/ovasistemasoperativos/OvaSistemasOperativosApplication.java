@@ -1,4 +1,4 @@
-package com.example.sistemas;
+package com.example.sistemas.ovasistemasoperativos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
