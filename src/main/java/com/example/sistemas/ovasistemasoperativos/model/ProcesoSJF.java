@@ -6,6 +6,9 @@ public class ProcesoSJF {
     private String nombre;
     private int rafaga;
 
+    public ProcesoSJF(){
+    }
+
     public ProcesoSJF (String nombre, int rafaga){
         this.nombre = nombre;
         this.rafaga = rafaga;
