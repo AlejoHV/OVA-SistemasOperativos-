@@ -29,4 +29,13 @@ public class ProcesoSJF {
     public void setRafaga(int rafaga) {
         this.rafaga = rafaga;
     }
+
+    /*public double calcularProceso() {
+        if (rafaga < 0){
+          throw new ArithmeticException("El tiempo de duración del proceso debe ser positivo");
+        }
+        return rafaga;
+    }
+    
+     */
 }
